@@ -1,0 +1,2 @@
+# chan-locals
+Multilingual Translation
